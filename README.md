@@ -27,8 +27,5 @@ It includes database schema design, tables, and relationships useful for underst
 * **MySQL Workbench** (for database modeling and design).
 * **MySQL Server** (optional, if you want to run queries).
 
-
-
 ---
-
 Do you want me to also add a **section explaining each table/relationship** (from your `.mwb` file), or keep it general like above?
